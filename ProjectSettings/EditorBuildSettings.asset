@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 351216a8a5b7b2442a7caf4a62b22fce
+  - enabled: 1
+    path: Assets/Scenes/Home1.unity
+    guid: fa68cea8343ccad4d95f807ffd750fbc
+  - enabled: 1
+    path: Assets/Scenes/Home2.unity
+    guid: b53e834c52ac2614fa1626cbf39251b1
+  - enabled: 1
+    path: Assets/Scenes/Tunnel1.1.unity
+    guid: c1eef06b32a0c92489eab2ea23c28b65
+  - enabled: 1
+    path: Assets/Scenes/Tunnel1.2.unity
+    guid: f752b4750ce886740a6fbc12863931a0
+  - enabled: 1
+    path: Assets/Scenes/Tunnel2.1.unity
+    guid: ae6e3db7339166d40b5fc543adc05161
+  - enabled: 1
+    path: Assets/Scenes/Tunnel2.2.unity
+    guid: 567fb038fdb484e4eb7fc89a1b1cf5a9
+  - enabled: 1
+    path: Assets/Scenes/Tunnel2.3.unity
+    guid: b1d744e7d8d352745898d8d9bac03c58
+  - enabled: 1
+    path: Assets/Scenes/Tunnel3.1.unity
+    guid: 76b92277154b5364facb6bd9a2b27db3
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: fe273835865d98e4580202c29784bc43
+  - enabled: 1
+    path: Assets/Scenes/Silver1.unity
+    guid: e30d46aa5dd58d04e86f9ee5f9ea83d9
+  m_configObjects: {}
