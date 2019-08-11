@@ -26,7 +26,7 @@ public class Licorice1Dialogue : MonoBehaviour
 
     public void ChoiceOptionHi()
     {
-        TextBox.GetComponent<Text>().text = "What can I do for you?";
+        TextBox.GetComponent<Text>().text = "Hmm, that depends. Can you do me a favour?";
         ChoiceMade = 1;
 
         ChoiceHi.SetActive(false);
